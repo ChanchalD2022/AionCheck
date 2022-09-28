@@ -36,3 +36,34 @@
     transform: rotate(360deg);
   }
 }
+
+button { 
+  padding: 10px 22px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+h3 {
+  text-decoration: underline;
+}
+
+.storedNumberPanel{
+  margin-left: 40%;
+  margin-top: -15%;
+}
+
+.wholePanel{
+  text-align: left;
+  margin-left: -40%;
+  margin-top: 0%;
+}
+
+.divider {
+  display: inline-block;
+  width: 2px;
+  background-color: white;
+  margin: 0 10px;
+  height: 101em;
+}
